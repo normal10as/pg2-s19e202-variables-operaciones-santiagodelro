@@ -10,11 +10,8 @@ Module Sumatoria
         d = Console.ReadLine()
         Suma = a + b + c + d
         Resultado = Suma / 4
-
         Console.WriteLine("La suma total es: " & Suma)
         Console.WriteLine("El promedio es: " & Resultado)
-
-
 
 
     End Sub
