@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\bin\Debug\netcoreapp2.1\Variables_consola.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\bin\Debug\netcoreapp2.1\Variables_consola.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\bin\Debug\netcoreapp2.1\Variables_consola.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\bin\Debug\netcoreapp2.1\Variables_consola.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\bin\Debug\netcoreapp2.1\Variables_consola.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Variables_tipo\Variables_consola\obj\Debug\netcoreapp2.1\Variables_consola.pdb
