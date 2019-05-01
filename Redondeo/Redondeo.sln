@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Redondeo", "Redondeo\Redondeo.vbproj", "{2CF3FBC3-B17A-41A9-8E13-0093C791F056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF3FBC3-B17A-41A9-8E13-0093C791F056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF3FBC3-B17A-41A9-8E13-0093C791F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF3FBC3-B17A-41A9-8E13-0093C791F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF3FBC3-B17A-41A9-8E13-0093C791F056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB4A7D9-9879-4D77-86D6-D6D29C7F271C}
+	EndGlobalSection
+EndGlobal

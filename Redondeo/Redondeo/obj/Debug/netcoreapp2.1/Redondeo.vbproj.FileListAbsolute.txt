@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Redondeo\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.pdb
