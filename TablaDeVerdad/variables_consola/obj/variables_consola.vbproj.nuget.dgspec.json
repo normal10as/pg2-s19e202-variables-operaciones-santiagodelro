@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj",
         "projectName": "variables_consola",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\variables_consola.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\TablaDeVerdad\\variables_consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
