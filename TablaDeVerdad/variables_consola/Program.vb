@@ -4,8 +4,8 @@ Module TablaDeVerdad
     Sub Main(args As String())
         Dim P, Q, Resultado As Boolean
 
-        P = True
-        Q = False
+        P = 1
+        Q = 0
         Resultado = P And Q
         Console.WriteLine("AND: " & Resultado)
         Resultado = P Or Q
