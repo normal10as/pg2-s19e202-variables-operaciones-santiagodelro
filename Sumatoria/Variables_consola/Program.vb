@@ -1,6 +1,6 @@
 Imports System
 
-Module Sumatoria
+Module suma_promedio
     Sub Main(args As String())
         Dim a, b, c, d, Suma, Resultado As Integer
         Console.WriteLine("Ingrese 4 valores: ")
