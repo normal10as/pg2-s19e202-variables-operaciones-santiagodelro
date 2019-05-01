@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Matematica1\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.pdb
