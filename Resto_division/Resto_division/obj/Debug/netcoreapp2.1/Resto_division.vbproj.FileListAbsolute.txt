@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Resto_division\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.pdb
