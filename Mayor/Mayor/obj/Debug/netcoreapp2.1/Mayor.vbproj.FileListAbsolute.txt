@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\bin\Debug\netcoreapp2.1\Mayor.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\bin\Debug\netcoreapp2.1\Mayor.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\bin\Debug\netcoreapp2.1\Mayor.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\obj\Debug\netcoreapp2.1\Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\obj\Debug\netcoreapp2.1\Mayor.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Mayor\Mayor\obj\Debug\netcoreapp2.1\Mayor.pdb
