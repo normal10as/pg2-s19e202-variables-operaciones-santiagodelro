@@ -1,14 +1,19 @@
 Imports System
 
-Module Semanas
+Module equivalencia_dias
     Sub Main(args As String())
-        Dim Diasanual = 365
-        Dim DiasLab, DiasSem As Integer
-        DiasSem = 364 / 7
-        DiasLab = DiasSem * 5
-        DiasLab = DiasLab / 7
-        Console.WriteLine("Semanas del año: " & DiasSem)
-        Console.WriteLine("Semanas Laborales del año: " & DiasLab)
+        Dim MinutosPorHora, DiasPorSemana, HorasPorDia As Single
+        Dim Dias As Integer
+        Console.Write("Ingrese Los Dias: ")
+        Dias = Console.ReadLine()
+        DiasPorSemana = Dias / 7
+        HorasPorDia = Dias * 24
+        MinutosPorHora = HorasPorDia * 60
+        Console.WriteLine("Numero de Semanas: " & DiasPorSemana)
+        Console.WriteLine("Numero de Horas: " & HorasPorDia)
+        Console.WriteLine("Numero de minutos: " & MinutosPorHora)
+
+
 
     End Sub
 End Module
