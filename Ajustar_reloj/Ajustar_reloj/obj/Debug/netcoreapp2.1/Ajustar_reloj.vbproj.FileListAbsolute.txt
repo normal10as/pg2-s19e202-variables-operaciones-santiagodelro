@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Ajustar_reloj\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.vbprojAssemblyReference.cache
