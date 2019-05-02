@@ -2,7 +2,7 @@ Imports System
 
 Module Nueva_fecha
     Sub Main(args As String())
-        Dim dia, diasPlus, mes, anio, nuevafecha
+        Dim dia, nuevafecha
         Dim fecha As Date
         Console.Write("Ingrese una fecha(dia/mes/anio): ")
         fecha = Console.ReadLine()
