@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Nueva_fecha\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.pdb
