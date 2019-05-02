@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\bin\Debug\netcoreapp2.1\Cadenas1.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\bin\Debug\netcoreapp2.1\Cadenas1.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\bin\Debug\netcoreapp2.1\Cadenas1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\bin\Debug\netcoreapp2.1\Cadenas1.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\bin\Debug\netcoreapp2.1\Cadenas1.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Cadenas1\Cadenas1\obj\Debug\netcoreapp2.1\Cadenas1.pdb

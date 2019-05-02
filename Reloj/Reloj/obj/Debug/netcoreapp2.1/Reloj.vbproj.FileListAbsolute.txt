@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\bin\Debug\netcoreapp2.1\Reloj.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\bin\Debug\netcoreapp2.1\Reloj.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\bin\Debug\netcoreapp2.1\Reloj.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Reloj\Reloj\obj\Debug\netcoreapp2.1\Reloj.vbprojAssemblyReference.cache
