@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj",
         "projectName": "Resto_division",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\Resto_division.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Resto_division\\Resto_division\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj",
         "projectName": "Matematica1",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\Matematica1.vbproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-santiagodelro\\Matematica1\\Matematica1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
