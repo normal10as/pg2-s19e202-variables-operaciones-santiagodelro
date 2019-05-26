@@ -6,7 +6,6 @@ Module equivalencia_dias
         Const semana As Integer = 7
         Const hora As Integer = 24
         Const minutos As Integer = 60
-
         Dim Dias As Integer
         Console.Write("Ingrese Los Dias: ")
         Dias = Console.ReadLine()
@@ -16,8 +15,5 @@ Module equivalencia_dias
         Console.WriteLine("Numero de Semanas: " & DiasPorSemana)
         Console.WriteLine("Numero de Horas: " & HorasPorDia)
         Console.WriteLine("Numero de minutos: " & MinutosPorHora)
-
-
-
     End Sub
 End Module

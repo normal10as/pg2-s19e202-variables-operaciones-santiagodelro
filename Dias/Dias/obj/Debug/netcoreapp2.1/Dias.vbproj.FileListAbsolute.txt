@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\bin\Debug\netcoreapp2.1\Dias.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\bin\Debug\netcoreapp2.1\Dias.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\bin\Debug\netcoreapp2.1\Dias.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\bin\Debug\netcoreapp2.1\Dias.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\bin\Debug\netcoreapp2.1\Dias.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.AssemblyInfo.vb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e202-variables-operaciones-santiagodelro\Dias\Dias\obj\Debug\netcoreapp2.1\Dias.pdb
